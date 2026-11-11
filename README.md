@@ -10,3 +10,7 @@ Created, authored and owned by Ross O'Leary. Copyright © 2026 Ross O'Leary. Wri
 assistant, directed and checked by Ross O'Leary. Windows and other names belong to their owners.
 
 A reminder, not medical advice.
+
+`notices.json` is read by the app with each update check. Versions listed in `bad` are never installed. A `notice`
+({id, date, title, words, todo, from, to}) is shown once, at the next start, to people on those versions. Leave it as
+`{"bad": [], "notice": null}` when there's nothing to say.
