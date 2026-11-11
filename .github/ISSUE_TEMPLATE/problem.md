@@ -1,9 +1,9 @@
 ---
 name: Something's wrong
-about: Tell me about a problem with Water Reminder
+about: Tell me about a problem with Acquado.com - App
 ---
 
-**Never attach work files, or screenshots showing work, here - this page is public.** A picture of Water Reminder itself is fine.
+**Never attach work files, or screenshots showing work, here - this page is public.** A picture of Acquado.com - App itself is fine.
 
 **What happened?**
 
