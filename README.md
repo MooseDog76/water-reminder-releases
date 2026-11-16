@@ -1,5 +1,6 @@
 # water-reminder-releases
-Installers (and updates) for **Acquado.com - App** - called Water Reminder until version 0.1.35. Website: acquado.com.
+Installers (and updates) for **InThirst** - called Acquado.com - App from 0.1.35 to 0.1.56, and Water Reminder before.
+Website: inthirst.com. Feedback: feedback@inthirst.com (or Send feedback in the app's About).
 
 The newest version: https://github.com/MooseDog76/water-reminder-releases/releases/latest
 
